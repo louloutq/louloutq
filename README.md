@@ -1,0 +1,4 @@
+- Hi, I’m Thalium
+- I’m interested in Space stuff, websites and app creation
+- I’m currently learning C# and the Web
+- I'm also doing some 3D models
